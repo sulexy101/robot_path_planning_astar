@@ -1,0 +1,8 @@
+prefix=/home/suleyman/Downloads/tade_ws/devel
+
+Name: astar_bot
+Description: Description of astar_bot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

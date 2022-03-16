@@ -1,0 +1,2 @@
+astar_bot:gazebo_ros_pkgs/gazebo_dev:gazebo_ros_pkgs/gazebo_msgs:gazebo_ros_pkgs/gazebo_plugins:gazebo_ros_pkgs/gazebo_ros:gazebo_ros_pkgs/gazebo_ros_control:gazebo_ros_pkgs/gazebo_ros_pkgs:robot
+-DCATKIN_DEVEL_PREFIX=/home/suleyman/Downloads/tade_ws/devel -DCMAKE_INSTALL_PREFIX=/home/suleyman/Downloads/tade_ws/install -G Unix Makefiles
